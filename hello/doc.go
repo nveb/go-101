@@ -1,2 +1,2 @@
-// Every 101 experiments happen in this package
+// Package hello is about all 101 experiments of the language
 package hello
